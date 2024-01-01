@@ -1,0 +1,8 @@
+class DateUtls{
+
+  public Date DateDetails(){
+
+return "Date";
+
+}
+}
